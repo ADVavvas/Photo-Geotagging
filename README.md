@@ -12,6 +12,6 @@ Other users can view your photos if they are within the vicinity.
 - Might need to move around a bit for the app to track your location
 
 
-![poi](https://github.com/ADVavvas/Photo-Geotagging/blob/master/poi2.jpg)
+![poi](https://github.com/ADVavvas/Photo-Geotagging/blob/master/poi_map.jpg)
 ![poi_details](https://github.com/ADVavvas/Photo-Geotagging/blob/master/poi_details.jpg)
 ![poi_image](https://github.com/ADVavvas/Photo-Geotagging/blob/master/geotag.png)
