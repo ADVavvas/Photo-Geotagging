@@ -11,6 +11,7 @@ Other users can view your photos if they are within the vicinity.
 - Location awareness might not work on some physical devices
 - Might need to move around a bit for the app to track your location
 
-![alt text](https://github.com/ADVavvas/Photo-Geotagging/blob/master/poi1.jpg)
-![alt text](https://github.com/ADVavvas/Photo-Geotagging/blob/master/poi2.jpg)
-![alt text](https://github.com/ADVavvas/Photo-Geotagging/blob/master/geotag.png)
+
+![poi](https://github.com/ADVavvas/Photo-Geotagging/blob/master/poi2.jpg)
+![poi_details](https://github.com/ADVavvas/Photo-Geotagging/blob/master/poi_details.jpg)
+![poi_image](https://github.com/ADVavvas/Photo-Geotagging/blob/master/geotag.png)
